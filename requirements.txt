@@ -1,0 +1,12 @@
+jupyter==1.0.0
+jupyter-client==6.1.12
+jupyter-console==6.4.0
+jupyter-core==4.7.1
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.0
+jupyterthemes==0.20.0
+matplotlib==3.3.2
+notebook==6.3.0
+numpy==1.19.2
+pandas==1.1.2
+tweepy==3.10.0

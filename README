@@ -1,0 +1,13 @@
+Username: dtradke7
+
+This repository works towards question #13 on the webpage https://www.notion.so/Analytics-Bounties-for-Alchemix-ffd6c25bdef3486c9b8dfa9476ac6a39. This question revolves around analyzing Twitter data's impact on the Alchemix (ALCX) cryptocurrency using Flipside Crypto data. I use artificial intelligence and data analytics to summarize how @AlchemixHi's tweets, overall tweet volume, mean tweet sentiment, and tweet reach impact the price of ALCX.
+
+My solution is located in a jupyter notebook. The notebook can run off of offline saved data to curcumvent the necessity for a Twitter Developer account. If you have an account, the notebook can use real-time data to update the attached graphs.
+
+I have included multiple ways to view the report:
+
+1) ALCX_Twitter.ipynb --> This is a jupyter notebook. The code can be actually run in here by execting "jupyter notebook ALCX_Twitter.ipynb" in terminal from this directory.
+
+2) ALCX_Twitter.html --> This is an HTML copy of the notebook, which can be viewed by opening the file with a web application such as Safari or Chrome.
+
+3) ALCX_Twitter.pdf --> This is an exported PDF document of the write-up and code included in the jupyter notebook. This also includes the graphs that the code generates.
